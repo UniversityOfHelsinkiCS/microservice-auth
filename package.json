@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Roni Lindolm",
+  "author": "Roni Lindholm",
   "license": "ISC",
   "dependencies": {
     "node-forge": "^0.10.0"
