@@ -1,0 +1,14 @@
+{
+  "name": "microservice-auth",
+  "version": "1.0.0",
+  "description": "A lightweight proxy to authenticate requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Roni Lindolm",
+  "license": "ISC",
+  "dependencies": {
+    "node-forge": "^0.10.0"
+  }
+}

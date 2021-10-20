@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  microservice-auth:
+    build:
+      context: ./
+    ports:
+      - 8081:8081
+    volumes:
+      - ./certs:/certs
